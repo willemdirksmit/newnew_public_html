@@ -19,15 +19,37 @@ h6 {
 }
 
 
-.card-content {
+.card.content {
   text-align: left;
-  min-height: 70px;
+  padding: 0px;
+}
+
+.row {
+  margin-bottom: 0px;
 }
 
 .card .card-content {
-  padding: 4px 4px 10px 4px;
+  padding: 4px 4px 4px 4px;
+  /* border: 1px solid orange; */
+  min-height: 80px;
 }
 
+.row.item {
+  /* border: 1px solid red; */
+}
+
+.col.s6.item {
+  /* border: 1px solid grey; */
+}
+
+.card.item {
+  /* border: 1px solid black; */
+  min-height: 40px;
+}
+
+.card-image.item {
+  /* border: 1px solid green; */
+}
 
 nav {
   background-color: #388E3C;
@@ -44,6 +66,76 @@ nav {
 .custom-colour {
   background-color: blue;
 }
+
+p.product_info {
+  color: black;
+}
+
+i.tiny.material-icons{
+  /* border: 1px solid red; */
+}
+
+.col.price {
+  /* border: 1px solid purple; */
+  margin-top: 0px;
+  padding: 0px 10px;
+}
+
+.col.s6.price h6 {
+  /* border: 1px solid yellow; */
+  margin-top: 5px;
+}
+
+.col.s6.right {
+  /* border: solid 1px blue; */
+}
+
+.card.product {
+  /* border: 1px solid violet; */
+  padding: 4px;
+  max-height: 225px;
+  }
+
+
+.card.item p {
+  /* border: 1px solid grey; */
+  margin: 0px;
+}
+
+.card.item h5 {
+  font-weight: bold;
+  /* border: 1px solid brown; */
+}
+
+.col.s6.item-info h5 {
+  margin: 0px;
+}
+
+.col.s6.item-info.icons {
+  /* border: 1px solid green; */
+  text-align: center;
+}
+
+.row.button-center {
+  margin: 40px 0px 60px 0px;
+  text-align: center;
+}
+
+.material-icons-outlined {
+  color: black;
+}
+
+/* Product Details */
+.product_details h5 {
+  color: black;
+  padding: 20px;
+}
+
+.product_details_image {
+  border: 1px solid orange;
+}
+
+
 
 /* .card {
   border-radius: 15px;
