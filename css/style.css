@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+
+body {
+  font-family: helvetica;
+}
+
+h1 {
+  font-family: 'Noto Sans', monospace;
+}
+
+h5 {
+  margin-top: 30px;
+  text-align: center;
+  color: #388E3C;
+}
+
+h6 {
+  color: #388E3C;
+}
+
+
+.card-content {
+  text-align: left;
+  min-height: 70px;
+}
+
+.card .card-content {
+  padding: 4px 4px 10px 4px;
+}
+
+
+nav {
+  background-color: #388E3C;
+}
+
+.red {
+  background-color: #7874a2 !important;
+}
+
+.red-hover {
+  background-color: yellow;
+}
+
+.custom-colour {
+  background-color: blue;
+}
+
+/* .card {
+  border-radius: 15px;
+} */
+
+/*  */
+.navbar-fixed nav {
+  bottom: 0;
+  left: 0;
+}
