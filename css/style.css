@@ -159,6 +159,36 @@ i.tiny.material-icons{
   padding: 20px;
 }
 
+.for_button {
+  text-align: center;
+}
+
+.button.green {
+  background-color: #388E3C;
+}
+
+.description {
+  margin-top: 40px;
+  padding: 6px;
+}
+
+.description p {
+  color: #757575;
+}
+
+.buyers_reviews {
+  margin-top: 40px;
+  padding: 6px;
+}
+
+.buyers_reviews h5 {
+  margin-bottom: 40px;
+}
+
+.buyers_reviews p {
+  /* margin-top: 40px;  */
+  color: #757575;
+}
 
 
 /* .card {
