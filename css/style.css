@@ -96,6 +96,20 @@ i.tiny.material-icons{
   max-height: 225px;
   }
 
+  .btndropdownarrow {
+    background-color: yellow;
+    color: #757575;
+  }
+
+  .dropdown-trigger {
+    cursor: pointer;
+  }
+
+  .dropdown-content {
+    text-decoration: line-through;
+    color: #fff;
+  }
+
 
 .card.item p {
   /* border: 1px solid grey; */
