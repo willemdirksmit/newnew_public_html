@@ -101,6 +101,10 @@ i.tiny.material-icons{
     color: #757575;
   }
 
+.btn.green.darken-2.pay {
+  width: 240px;
+}
+
   .dropdown-trigger {
     cursor: pointer;
   }
@@ -190,6 +194,35 @@ i.tiny.material-icons{
   color: #757575;
 }
 
+.row.sub-header_text p {
+  margin: 20px 10px;
+  color: #757575;
+}
+
+.divider {
+  margin: 0px 6px;
+}
+
+.row.option_1 {
+  margin: 10px 0px 0px 6px;
+}
+
+.row.option_1 p {
+  margin: 0px;
+  color: #388E3C;
+}
+
+.row.option_1 img {
+  margin: 0px 0px 10px 10px;
+}
+
+.col.s3.or p {
+  color: #388E3C;
+}
+
+.row.progress_bar{
+  margin-top: 30px;
+}
 
 /* .card {
   border-radius: 15px;
