@@ -126,13 +126,23 @@ i.tiny.material-icons{
 }
 
 /* Product Details */
-.product_details h5 {
+.product_details_text h5 {
   color: black;
   padding: 20px;
 }
 
-.product_details_image {
-  border: 1px solid orange;
+.product_details_price h5 {
+  color: #388E3C;
+  margin-bottom: 40px;
+}
+
+.product_details_product_details h6 {
+  text-align: center;
+}
+
+.product_details_color p {
+  color: #388E3C;
+  padding: 20px;
 }
 
 
